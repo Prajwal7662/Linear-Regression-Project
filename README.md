@@ -1,4 +1,4 @@
-# Linear Regression Project - README
+# Linear Regression Project 
 
 ## 📌 Project Overview
 
