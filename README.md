@@ -12,6 +12,7 @@ This project demonstrates how to implement Linear Regression using Python. It co
 
 ## 📂 Files Included
 
+
 * `Linear_reg_project.ipynb`: Jupyter Notebook containing the full code implementation.
 
 ## 🚀 How to Run the Notebook
